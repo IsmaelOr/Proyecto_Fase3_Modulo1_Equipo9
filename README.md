@@ -1,20 +1,28 @@
 # Proyecto_Fase3_Modulo1_Equipo9
 Proyecto curso Data Science, Fase 3 Modulo 1: Análisis de Datos con Python Santander 2021
 
-## Dataset: 
+## 🚀 Integrantes del Equipo: 
+*  Dávila Osorio Javier Ibzan
+*  Díaz Lievano Lázaro Raúl
+*  García Ruiz Diana Isabel
+*  Ortega Estrada Ismael
+*  Pizano Ocampo Aranza Nayeli
+*  Sánchez Loperena Ruben
+
+## 📄 Dataset: 
 https://raw.githubusercontent.com/IsmaelOr/Proyecto_Fase3_Modulo1_Equipo9/main/Files/enfermedades_cardiovasculares.csv
 
-## Limpieza del Dataset:
+## 🧹 Limpieza del Dataset:
 https://github.com/IsmaelOr/Proyecto_Fase3_Modulo1_Equipo9/blob/main/limpieza_dataset.ipynb
 
-## Documentación del Dataset:
+## 📁 Documentación del Dataset:
 https://github.com/IsmaelOr/Proyecto_Fase3_Modulo1_Equipo9/blob/main/Documentaci%C3%B3n%20-%20Fase%20III%20-%20Proyecto%201.pdf
 
-## Analisis de Datos con Python de nuestro Dataset:
+## 🔍 Analisis de Datos con Python de nuestro Dataset:
 https://github.com/IsmaelOr/Proyecto_Fase3_Modulo1_Equipo9/blob/main/analisis_de_datos_con_python.ipynb
 
-## Presentaciones en Google Slides del proyecto:
+## 👨‍🏫 Presentaciones en Google Slides del proyecto:
 https://docs.google.com/presentation/d/1dTeG9lG94Nx_5WraLqykqRmf--7D95m1Lyvb0y1393Y/edit?usp=sharing
 
-## Video de Explicación del Proyecto
+## 📹 Video de Explicación del Proyecto
 https://youtu.be/z_TkunrwZsY
