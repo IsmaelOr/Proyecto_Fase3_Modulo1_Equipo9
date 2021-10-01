@@ -7,7 +7,13 @@ https://raw.githubusercontent.com/IsmaelOr/Proyecto_Fase3_Modulo1_Equipo9/main/F
 ## Limpieza del Dataset:
 https://github.com/IsmaelOr/Proyecto_Fase3_Modulo1_Equipo9/blob/main/limpieza_dataset.ipynb
 
-## Documentación Dataset:
+## Documentación del Dataset:
 https://github.com/IsmaelOr/Proyecto_Fase3_Modulo1_Equipo9/blob/main/Documentaci%C3%B3n%20-%20Fase%20III%20-%20Proyecto%201.pdf
+
+## Analisis de Datos con Python de nuestro Dataset:
+
+
+## Presentaciones en Google Slides del proyecto:
+https://docs.google.com/presentation/d/1dTeG9lG94Nx_5WraLqykqRmf--7D95m1Lyvb0y1393Y/edit?usp=sharing
 
 
