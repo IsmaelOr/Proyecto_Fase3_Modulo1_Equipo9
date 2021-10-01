@@ -16,4 +16,5 @@ https://github.com/IsmaelOr/Proyecto_Fase3_Modulo1_Equipo9/blob/main/analisis_de
 ## Presentaciones en Google Slides del proyecto:
 https://docs.google.com/presentation/d/1dTeG9lG94Nx_5WraLqykqRmf--7D95m1Lyvb0y1393Y/edit?usp=sharing
 
-
+## Video de Explicación del Proyecto
+https://youtu.be/qlmRfVGpGfU
